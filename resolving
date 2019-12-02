@@ -3,4 +3,6 @@
 echo "This file is meant for demonstrating conflicts ; we are going to create";
 echo "Now we will create the conflict";
 
+
+echo "we will be creating the conflict now"
 ?>
